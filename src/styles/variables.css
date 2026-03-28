@@ -1,0 +1,20 @@
+:root {
+  --font: 'Inter', system-ui, sans-serif;
+  --font-display: 'Unbounded', system-ui, sans-serif;
+  --c-indigo: #1B1464;
+  --c-indigo-light: #2A1F8E;
+  --c-orange: #E8825C;
+  --c-orange-dim: rgba(232, 130, 92, 0.12);
+  --c-cream: #FFF8F0;
+  --c-cream-dark: #F5F0EB;
+  --c-white: #FFFFFF;
+  --c-text: #2D2842;
+  --c-text-muted: #554F6B;
+  --c-text-on-dark: #EDE9F8;
+  --c-text-on-dark-muted: #C0B9D4;
+  --c-card-shadow: rgba(27, 20, 100, 0.06);
+  --radius: 0.75rem;
+  --radius-card: 1.5rem;
+  --container: 1100px;
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+}
