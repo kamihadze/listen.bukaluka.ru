@@ -64,7 +64,7 @@ img {
 }
 
 .page-gradient {
-  background: linear-gradient(135deg, var(--c-indigo) 0%, #0D0A3E 100%);
+  background: linear-gradient(135deg, var(--c-indigo) 0%, #121E28 100%);
 }
 
 .page-inner {
